@@ -12,9 +12,10 @@
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,pytorch,tensorflow,sklearn,pandas,numpy,fastapi,git" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,mssql,pytorch,tensorflow,sklearn,pandas,numpy,fastapi,github,git" />
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" style="vertical-align:top; margin-top:10px;" />
+  </a>
 </p>
 
 ---
