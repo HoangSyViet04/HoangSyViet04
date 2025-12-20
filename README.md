@@ -10,18 +10,26 @@
 
 ---
 
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,mysql,pytorch,tensorflow,sklearn,fastapi,github,git" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
+<p align="center">
+  ### ⚒️ Languages-Frameworks-Tools ⚒️
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,mysql,vscode,pytorch,tensorflow,sklearn,fastapi,github,git" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" style="vertical-align: top;" />
 </p>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HoangSyViet04/HoangSyViet04/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HoangSyViet04/HoangSyViet04/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/HoangSyViet04/HoangSyViet04/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  ### 🐍 My Contributions 🐍
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HoangSyViet04/HoangSyViet04/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HoangSyViet04/HoangSyViet04/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/HoangSyViet04/HoangSyViet04/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
