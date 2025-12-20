@@ -10,14 +10,22 @@
 
 ---
 
-<p align="center">
-  ### ⚒️ Languages-Frameworks-Tools ⚒️
-</p>
-
-<p align="center">
+<div align="center">
+  <h3>⚒️ Languages-Frameworks-Tools ⚒️</h3>
+  
   <img src="https://skillicons.dev/icons?i=py,mysql,vscode,pytorch,tensorflow,sklearn,fastapi,github,git" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" style="vertical-align: top;" />
-</p>
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HoangSyViet04/HoangSyViet04/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HoangSyViet04/HoangSyViet04/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/HoangSyViet04/HoangSyViet04/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 <p align="center">
