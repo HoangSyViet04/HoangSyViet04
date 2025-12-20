@@ -8,7 +8,9 @@
 - 💬 Ask me about **[Thế mạnh của bạn]**
 - 📫 How to reach me: **[Email/LinkedIn]**
 
+
 ---
+
 
 <div align="center">
   <h3>⚒️ Languages-Frameworks-Tools ⚒️</h3>
@@ -18,6 +20,8 @@
 </div>
 
 ---
+
+
 <div align="center">
   <h3>🐍 My Contributions 🐍</h3>
   <picture>
@@ -26,7 +30,12 @@
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/HoangSyViet04/HoangSyViet04/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+
+
+
 ---
+
 
 
 ### 🤝 Connect with Me
