@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Hoang Sy Viet! 👋
 
-<!--
-**HoangSyViet04/HoangSyViet04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **[Dự án hiện tại]**
+- 🌱 I’m currently learning **[Công nghệ đang học]**
+- 💬 Ask me about **[Thế mạnh của bạn]**
+- 📫 How to reach me: **[Email/LinkedIn]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,docker" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[USER_CỦA_BẠN]&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USER_CỦA_BẠN]&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="[Link LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[Link Facebook/Twitter]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
