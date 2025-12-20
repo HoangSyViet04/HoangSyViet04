@@ -18,36 +18,16 @@
 </div>
 
 ---
-
 <div align="center">
+  <h3>🐍 My Contributions 🐍</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HoangSyViet04/HoangSyViet04/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HoangSyViet04/HoangSyViet04/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/HoangSyViet04/HoangSyViet04/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
-<p align="center">
-  ### 🐍 My Contributions 🐍
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HoangSyViet04/HoangSyViet04/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HoangSyViet04/HoangSyViet04/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/HoangSyViet04/HoangSyViet04/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USER_CỦA_BẠN]&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USER_CỦA_BẠN]&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
 
 ### 🤝 Connect with Me
 <p align="left">
