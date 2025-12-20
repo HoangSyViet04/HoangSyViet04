@@ -35,8 +35,21 @@
 
 
 ---
+<div align="center">
+  <h3>📊 My Skills Proficiency</h3>
 
+  **Python** ![85%](https://progress-bar.dev/85/?scale=100&title=Expert&width=500&color=36BCF7)
 
+  **SQL & Data Querying**
+  ![80%](https://progress-bar.dev/80/?scale=100&title=Advanced&width=500&color=F2C811)
+
+  **Machine Learning (Scikit-learn/PyTorch)**
+  ![75%](https://progress-bar.dev/75/?scale=100&title=Proficient&width=500&color=CC2927)
+
+  **Data Visualization (Power BI)**
+  ![70%](https://progress-bar.dev/70/?scale=100&title=Intermediate&width=500&color=4CAF50)
+</div>
+---
 
 ### 🤝 Connect with Me
 <p align="left">
