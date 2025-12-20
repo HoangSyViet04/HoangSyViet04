@@ -12,7 +12,9 @@
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,pytorch,tensorflow,sklearn,pandas,numpy,fastapi,git" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
 </p>
 
 ---
