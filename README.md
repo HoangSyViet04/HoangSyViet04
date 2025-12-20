@@ -4,10 +4,11 @@
 
 ---
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Dự án hiện tại]**
-- 🌱 I’m currently learning **[Công nghệ đang học]**
-- 💬 Ask me about **[Thế mạnh của bạn]**
-- 📫 How to reach me: **[Email/LinkedIn]**
+- 🎓 **Final-year Data Science student** at University of Economics – Technology for Industries.
+- 💡 Specialized in **Machine Learning**, **Data Analytics**, and **Statistical Modeling**,**Deep Learning**.
+- 🛠️ Currently building projects with **FastAPI** and **PyTorch**.
+- 🔍 Actively seeking for **Data Scientist / Data Analyst Intern** or Junior positions.
+- 📫 Contact me: hoangsyviet2k4@gmail.com
 ---
 
 <div align="center">
