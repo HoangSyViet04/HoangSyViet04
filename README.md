@@ -7,7 +7,16 @@
 - 🎓 **Final-year Data Science student** at University of Economics – Technology for Industries.
 - 💡 Specialized in **Machine Learning**, **Data Analytics**, and **Statistical Modeling**,**Deep Learning**.
 - 🛠️ Currently building projects with **FastAPI** and **PyTorch**.
-- 🔍 Actively seeking for **Data Scientist / Data Analyst Intern** or Junior positions.
+- 🔍 Actively seeking for **Data Scientist / Data Analyst Intern** or Fheslign="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Hoang+Sy+Viet!+👨‍💻" alt="Typing SVG" />
+</p>
+
+---
+### 👨‍💻 About Me
+- 🎓 **Final-year Data Science student** at University of Economics – Technology for Industries.
+- 💡 Specialized in **Machine Learning**, **Data Analytics**, and **Statistical Modeling**,**Deep Learning**.
+- 🛠️ Currently building projects with **FastAPI** and **PyTorch**.
+- 🔍 Actively seeking for **Data Scientist / Data Analyst Fresher** positions.
 - 📫 Contact me: hoangsyviet2k4@gmail.com
 ---
 
